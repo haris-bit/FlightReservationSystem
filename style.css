@@ -1,0 +1,8 @@
+.buttonSubmit {
+    text-align: center;
+}
+
+table input[type = "submit"] {
+    display: block;
+    margin: 0 auto;
+}

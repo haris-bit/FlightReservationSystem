@@ -1,0 +1,25 @@
+*) style up the other servlet pages
+*) list all the available flights in the user main page (using Beans)
+*) convert .html to .jsp
+*) email validation using javascript in server side
+
+1) Admin and User Interface
+if username contains admin@whateverHere.com,
+take it to a different mainPage
+
+
+
+
+2) Session Management 
+
+adding HttpSession session = request.getSession(); in 
+Something.java
+AddFlight.java
+DeletingFlight.java
+SearchingFlight.java
+UpdatingFlight.java
+and...
+
+
+3) DOA classes
+4) MVC
